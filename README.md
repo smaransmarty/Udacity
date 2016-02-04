@@ -8,9 +8,9 @@ for the completion of my Machine Learning Nano Degree
 SkLearn Boston Dataset
 
 Used DecisionTree Regressor to predict Boston Housing Prices.
-Learnt Model Evaludation and Validation 
+Learnt Model Evaluation and Validation 
 
 ##### Tensor Flow
-Used SVM calssifier to predict images if they are A-J .
-
+Used SVM classifier to predict images if they are A-J .
+Learnt that Shallow learning techniques do not scale when and hence need Neural Networks for huge datasets
 Using 500000 samples on the NOT MNIST database of http://yaroslavvb.com/upload/notMNIST   
