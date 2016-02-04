@@ -3,7 +3,7 @@
 This Repository contains all the course work done by me required 
 for the completion of my Machine Learning Nano Degree
 
-####Interesting Topics used
+####Interesting Projects
 ##### P1:Boston Housing Price Prediction
 SkLearn Boston Dataset
 
